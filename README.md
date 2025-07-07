@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Solomon
 
-I'm a developer building cool things at **Stable Jack**, a Web3 project focused on innovative DeFi infrastructure.
+I'm a developer building defi things at **Stable Jack**
 
 ### 🧠 Interests
 - DeFi mechanics & yield strategies  
